@@ -6,7 +6,7 @@ Overview:
 This library enables any python process to upload events to the Mixpanel analytics service
 It's compatible with python 2.6/2.7 and python 3.2
 
-This implementation is inspired from this blog [post](http://blog.coredumped.org/2012/05/using-mixpanel-with-python.html}
+This implementation is inspired from this blog [post](http://blog.coredumped.org/2012/05/using-mixpanel-with-python.html)
 
 Usage :
 -------
