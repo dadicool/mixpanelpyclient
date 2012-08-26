@@ -10,16 +10,18 @@ This implementation is inspired from this blog [post](http://blog.coredumped.org
 
 Usage :
 -------
-- drop mixpanelpyclient into your project
+- drop mixpanelpyclient into your project. Use as any python module.
 
 Example :
 ---------
 
+        from maxpanelpyclient import EventTracker
+        
         TOKEN = XYZ // Mixpanel Token
         tracker = EventTracker(TOKEN)
         tracker.track_async("My Event", {
             "distinct_id": "123",
-	    "mp_tag_name": "My User Name",
+            "mp_tag_name": "My User Name",
             "my_property": "some value",
             "some_int_value": 0,
         })
