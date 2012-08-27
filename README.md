@@ -34,3 +34,5 @@ Roadmap :
 ---------
 - offline support : Storage of collection data locally and replay when online again
 - support for convenient features such as mixpanel.register
+- Turn this lib into a proper python module
+- Enable travis-ci.org test runs
