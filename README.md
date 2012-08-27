@@ -29,3 +29,8 @@ Example :
 Tests :
 -------
 `python test.py`
+
+Roadmap :
+---------
+- offline support : Storage of collection data locally and replay when online again
+- support for convenient features such as mixpanel.register
