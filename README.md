@@ -36,3 +36,8 @@ Roadmap :
 - support for convenient features such as mixpanel.register
 - Turn this lib into a proper python module
 - Enable travis-ci.org test runs
+
+License :
+---------
+
+`mixpanelpyclient` is distributed under the MIT license.
